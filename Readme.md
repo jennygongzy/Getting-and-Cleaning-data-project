@@ -25,5 +25,7 @@ Objectives
 
 Result
 ----
+Two tidy datasets are saved in ```Tidydata1.txt``` and ```Tidydata2.txt``` 
+Code book that describes the variables, the data, and data clean process is saved in ```CodeBook.md```
 
 -------------
